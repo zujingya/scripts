@@ -39,3 +39,4 @@ models:
   - openrouter/z-ai/glm-5v-turbo
   # ByteDance
   - openrouter/bytedance-seed/seed-2.0-lite
+  - openrouter/**********************************
